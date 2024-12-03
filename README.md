@@ -55,6 +55,7 @@ Figure -02 HALF Subtractor
 
 Developed by:Sukanth K R RegisterNumber:*/
 24000723
+
 **RTL Schematic**
 ![Screenshot 2024-12-03 221133](https://github.com/user-attachments/assets/8d7d4872-ece5-4c43-a939-40a9de6bff6d)
 
